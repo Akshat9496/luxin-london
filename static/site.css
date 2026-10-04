@@ -1,0 +1,6 @@
+.enquiry{margin:2rem 0 1rem}
+.enquiry__lead{margin:0 0 1.2rem;font-size:1.4rem;line-height:1.5;opacity:.85}
+.enquiry__stock{margin:0 0 1rem;color:rgb(var(--color-foreground));font-weight:600}
+.enquiry .button{margin:0 0 1rem}
+.enquiry [hidden]{display:none!important}
+.variant-radios-static{border:0;padding:0}
